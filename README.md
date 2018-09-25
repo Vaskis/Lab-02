@@ -4,7 +4,7 @@
 
 I worked with several classmates and the TA to accomplish this assignment.
 
-# Below is the Lab 02 assignment
+# Lab 02 assignment:
 The linear linked list is one of several ways to organize and store sequential data and is used frequently in computer programming.  In this lab you will work with class LLList, which implements a linear linked implementation of a sequence of doubles.  This implementation of the LLList structure stores a single pointer containing the address of the first Node of a linear linked list of Nodes in each LLList object.  Download the following files from Lab Resources for today's lab:  Node.h, Node.cpp, LinkedList.h, LinkedList.cpp, ListProcessor.cpp. 
 
 Study the implementation of the Node and LLList methods. 
